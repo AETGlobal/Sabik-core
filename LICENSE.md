@@ -401,7 +401,7 @@ Apache 2.0 license. See the referenced packages listed in the
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright ©️ 2023 Kazi Saabique Ahmed
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -417,7 +417,7 @@ Apache 2.0 license. See the referenced packages listed in the
    
 =======================================================================
 
-Component licenses for mycroft-core:
+Component licenses for sabik-core:
 
 The mycroft-core software references various Python Packages (via PIP),
 each of which has a separate license.  All are compatible with the
